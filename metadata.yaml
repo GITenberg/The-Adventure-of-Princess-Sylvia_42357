@@ -1,0 +1,35 @@
+_repo: The-Adventure-of-Princess-Sylvia_42357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Mrs. C. N.
+    - Williamson, Alice Muriel
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+description: Get set for a thrilling trip back in time with this charming historical
+  romance from beloved author Alice Muriel Williamson. Packed with royal intrigue
+  and court gamesmanship, the story follows the indomitable Princess Sylvia in her
+  quest to enchant and wed a powerful king.
+gutenberg_issued: '2013-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Princesses -- Fiction'
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Kings and rulers -- Fiction'
+- !lcc 'PR'
+title: The Adventure of Princess Sylvia
+url: http://www.gutenberg.org/ebooks/42357
